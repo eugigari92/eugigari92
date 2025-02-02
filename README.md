@@ -1,16 +1,13 @@
-## Hi there 👋
+# Eugenio Garibaldi
 
-<!--
-**eugigari92/eugigari92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ciao!**  
+Sono Eugenio Garibaldi, 32 anni, imprenditore e futuro programmatore. Sto abbracciando l'intelligenza artificiale per dare vita a progetti innovativi.
 
-Here are some ideas to get you started:
+## In questo repository
+- Progetti personali
+- Guide e risorse utili
+- Collaborazioni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contattami se vuoi scambiare idee o collaborare!
+
+_Eugenio_
